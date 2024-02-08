@@ -1,5 +1,4 @@
-# Netflix_clone
-# Netflix Clone Project
+# Netflix_Clone
 
 ## Description
 
